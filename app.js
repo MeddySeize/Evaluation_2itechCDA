@@ -1,4 +1,4 @@
-//On cible les élément qui est concerné 
+//On cible les élément qui sont concerné 
 
 const carouselSlide = document.querySelector('.carousel-slide');
 const carouselImages = document.querySelectorAll('.carousel-slide img');
